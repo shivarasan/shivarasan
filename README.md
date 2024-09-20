@@ -15,6 +15,5 @@ I'm Sivarasan, a Senior Software Engineer passionate about Software Engineering.
 ![Profile views](https://gpvc.arturio.dev/shivarasan)
 
 ### 📫 Reach Me:
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sivarasan-ponnuthurai/))
-
+- [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sivarasan-ponnuthurai/)
 
